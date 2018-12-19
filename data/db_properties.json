@@ -1,0 +1,6 @@
+{
+	"server" : "localhost",
+	"database" : "sekom_db",
+	"username" : "root",
+	"password" : ""
+}
